@@ -1,10 +1,8 @@
-# Hi, I'm Hazby (hazubeep) 👋
+# Hi, I'm Hazbi (hazubeep) 👋
 
 ### Full-Stack Developer | Arch Linux Enthusiast
 
-I am a passionate Full-Stack Developer with a focus on building efficient, scalable, and modern web applications. Recently, I graduated as the **"Best Student"** from an intensive developer training program, where I honed my skills in software architecture and problem-solving.
-
-Currently, I am preparing for my **College journey** to further deepen my computer science foundations.
+I am a passionate Full-Stack Developer with a focus on building efficient, scalable, and modern web applications.
 
 ---
 
@@ -18,18 +16,10 @@ Currently, I am preparing for my **College journey** to further deepen my comput
 
 ### **Development Environment (Arch Linux 🐧)**
 I love a minimalist and efficient workflow. My setup includes:
-* **WM/DE:** Hyprland, Waybar
-* **Editor:** Neovim (NvChad / Kickstart.nvim)
+* **WM:** Hyprland
+* **Editor:** Neovim (NvChad)
 * **Terminal:** Kitty, Foot (Fish Shell)
 * **Tools:** Yazi (File Manager), PlantUML/D2 (Diagrams as Code)
-
----
-
-## 🚀 Featured Projects
-* **TakaTicket:** A robust ticketing system.
-* **StrataAcademy & Citowrite:** Web platforms built with modern stacks.
-* **Bookshelf App:** A project focused on Web Storage implementation.
-* **Ujikom Project:** A high-performance landing page using Next.js and Decap CMS.
 
 ---
 
@@ -39,9 +29,8 @@ I love a minimalist and efficient workflow. My setup includes:
 
 ---
 
-## 🌍 Beyond Coding
-* 🇯🇵 **Learning:** Japanese & English.
-* 🏙️ **Hobbies:** City building in **TheoTown**.
+## 🌍 Interests
+* 🇯🇵 **Interests:** Japanese Culture & English
 * ⚡ **Philosophy:** *"Efficiency is doing things right; effectiveness is doing the right things."* — Inspired by the Eisenhower Matrix.
 
 ---
