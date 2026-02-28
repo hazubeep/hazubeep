@@ -23,12 +23,6 @@ I love a minimalist and efficient workflow. My setup includes:
 
 ---
 
-## 📊 GitHub Stats
-![Hazbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazubeep&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazubeep&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌍 Interests
 * 🇯🇵 **Interests:** Japanese Culture & English
 * ⚡ **Philosophy:** *"Efficiency is doing things right; effectiveness is doing the right things."* — Inspired by the Eisenhower Matrix.
