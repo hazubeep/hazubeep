@@ -1,4 +1,4 @@
-# Hi, I'm Hazbi (hazubeep) 👋
+# Hi, I'm Hazby 👋
 
 ### Full-Stack Developer | Arch Linux Enthusiast
 
