@@ -1,49 +1,42 @@
 <div align="center">
 
-# こんにちは、世界！ 👋
+# はじめまして、Hazubeep です。
 
-### I'm Hazubeep
+*静かに考え、丁寧につくる。*
 
-Software developer who enjoys building useful things, learning continuously, and turning ideas into code.
-
-[![GitHub followers](https://img.shields.io/github/followers/hazubeep?style=for-the-badge&logo=github)](https://github.com/hazubeep)
-[![Profile views](https://komarev.com/ghpvc/?username=hazubeep&style=for-the-badge&color=blueviolet)](https://github.com/hazubeep)
+[GitHub](https://github.com/hazubeep)
 
 </div>
 
 ---
 
-## About me
+## について
 
-- 🔭 I’m currently working on personal projects and exploring new ideas.
-- 🌱 I’m continuously learning and improving my development skills.
-- 💡 I enjoy experimenting, solving problems, and creating simple solutions.
-- 🤝 I’m open to collaboration and interesting projects.
-- 📫 The best way to reach me is through GitHub.
+ソフトウェアをつくりながら、日々学んでいます。
 
-## What I’m interested in
+- シンプルで実用的なものづくり
+- 新しい技術や開発のしくみ
+- 読みやすく、長く使えるコード
+- オープンソースと知識の共有
 
-- Building practical and enjoyable software
-- Exploring modern development tools and workflows
-- Improving code quality and developer experience
-- Learning from open-source projects
+## 現在
 
-## GitHub activity
+個人プロジェクトに取り組みながら、少しずつできることを増やしています。
+
+```text
+好奇心  ·  探究  ·  ものづくり
+```
+
+## GitHub
 
 <div align="center">
 
-![Hazubeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazubeep&show_icons=true&hide_border=true&theme=transparent)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazubeep&layout=compact&hide_border=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hazubeep&show_icons=true&hide_border=true&theme=transparent&title_color=8c6b5a&icon_color=8c6b5a&text_color=6b625d)
 
 </div>
 
-## Let’s connect
-
-If you’d like to collaborate, discuss an idea, or simply say hello, feel free to open an issue or start a discussion in one of my repositories.
-
 <div align="center">
 
-**Thanks for stopping by!** ✨
+気軽に声をかけてください。よろしくお願いします。
 
 </div>
